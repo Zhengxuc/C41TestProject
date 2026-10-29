@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>2935616463</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\AD421.cpp</file>
+            <file>$PROJ_DIR$\Alarm.h</file>
+            <file>$PROJ_DIR$\ad.cpp</file>
+            <file>$PROJ_DIR$\Ad.H</file>
+            <file>$PROJ_DIR$\AD421.h</file>
+            <file>$PROJ_DIR$\Alarm.c</file>
+            <file>$PROJ_DIR$\CurveFitting.c</file>
+            <file>$PROJ_DIR$\CurveFitting.H</file>
+            <file>$PROJ_DIR$\delay.h</file>
+            <file>$PROJ_DIR$\Flash_RW.cpp</file>
+            <file>$PROJ_DIR$\Flash_RW.H</file>
+            <file>$PROJ_DIR$\RunConfig.H</file>
+            <file>$PROJ_DIR$\hart.c</file>
+            <file>$PROJ_DIR$\RunMen.c</file>
+            <file>$PROJ_DIR$\KEYBOARD.cpp</file>
+            <file>$PROJ_DIR$\HT1621.H</file>
+            <file>$PROJ_DIR$\Pwm.c</file>
+            <file>$PROJ_DIR$\HT1621.cpp</file>
+            <file>$PROJ_DIR$\DisDataCalculate.H</file>
+            <file>$PROJ_DIR$\MessageCenter.H</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Pwm.h</file>
+            <file>$PROJ_DIR$\RunAuto.h</file>
+            <file>$PROJ_DIR$\Hart.h</file>
+            <file>$PROJ_DIR$\FittingData.H</file>
+            <file>$PROJ_DIR$\RunMen.H</file>
+            <file>$PROJ_DIR$\Tick.cpp</file>
+            <file>$PROJ_DIR$\Device.H</file>
+            <file>$PROJ_DIR$\Tick.H</file>
+            <file>$PROJ_DIR$\Limited.H</file>
+            <file>$PROJ_DIR$\delay.cpp</file>
+            <file>$PROJ_DIR$\KEYBOARD.H</file>
+            <file>$PROJ_DIR$\RunConfig.c</file>
+            <file>$PROJ_DIR$\RunAuto.c</file>
+            <file>$PROJ_DIR$\MessageCenter.cpp</file>
+            <file>$PROJ_DIR$\Uart.c</file>
+            <file>$PROJ_DIR$\Uart.h</file>
+            <file>$PROJ_DIR$\Dis_lib.h</file>
+            <file>$PROJ_DIR$\DisDataCalculate.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunMen.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunAuto.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunConfig.pbi</file>
+            <file>$PROJ_DIR$\RunConfigH.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HT1621.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunConfigH.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Uart.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\hart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\HIR.txt</file>
+            <file>$PROJ_DIR$\Debug\Obj\ad.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\Pwm.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunConfigH.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+            <file>$TOOLKIT_DIR$\config\lnk430F169.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunMen.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$PROJ_DIR$\math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Pwm.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEYBOARD.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\MessageCenter.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Flash_RW.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\ad.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunAuto.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\AD421.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430x16x.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\HIR.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\MessageCenter.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\Flash_RW.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430x14x.h</file>
+            <file>$PROJ_DIR$\Debug\List\HIR.map</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DWQcontrol.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\HIR.d43</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunAutoH.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Alarm.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\Tick.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\CurveFitting.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEYBOARD.r43</file>
+            <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunConfig.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\DisDataCalculate.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\Tick.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HT1621.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\CurveFitting.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\Alarm.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\DisDataCalculate.pbi</file>
+            <file>$PROJ_DIR$\DWQcontrol.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\RunAutoH.r43</file>
+            <file>$PROJ_DIR$\RunAutoH.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hart.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\AD421.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DWQcontrol.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\delay.r43</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\AD421.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 100</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ad.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 53</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Alarm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\CurveFitting.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 24 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Flash_RW.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\hart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunMen.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\KEYBOARD.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Pwm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\HT1621.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 69 85 44 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Tick.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\delay.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 69 85 44</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunConfig.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 88</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunAuto.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\MessageCenter.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 69 85 44 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 29</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\DisDataCalculate.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 80 77</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunConfigH.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\HIR.txt</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 57 87 100 82 93 89 74 47 86 73 61 40 88 39 83 50 53 104 99 70 71</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Obj\HIR.pbd</name>
+            <inputs>
+                <tool>
+                    <name>BILINK</name>
+                    <file> 67 94 84 95 64 92 62 63 54 66 41 58 90 46 65 91 51 49</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\HIR.d43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 57 87 100 82 93 89 74 47 86 73 61 40 88 39 83 50 53 104 99 70 71</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\DWQcontrol.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 76 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 76 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunAutoH.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 69 85 44 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60 59 56 103 75 68 43 45 101 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 60</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs>
+            <file>$PROJ_DIR$\AD421.cpp</file>
+            <file>$PROJ_DIR$\Alarm.h</file>
+            <file>$PROJ_DIR$\ad.cpp</file>
+            <file>$PROJ_DIR$\Ad.H</file>
+            <file>$PROJ_DIR$\AD421.h</file>
+            <file>$PROJ_DIR$\Alarm.c</file>
+            <file>$PROJ_DIR$\CurveFitting.c</file>
+            <file>$PROJ_DIR$\CurveFitting.H</file>
+            <file>$PROJ_DIR$\delay.h</file>
+            <file>$PROJ_DIR$\Flash_RW.cpp</file>
+            <file>$PROJ_DIR$\Flash_RW.H</file>
+            <file>$PROJ_DIR$\RunConfig.H</file>
+            <file>$PROJ_DIR$\hart.c</file>
+            <file>$PROJ_DIR$\RunMen.c</file>
+            <file>$PROJ_DIR$\KEYBOARD.cpp</file>
+            <file>$PROJ_DIR$\HT1621.H</file>
+            <file>$PROJ_DIR$\Pwm.c</file>
+            <file>$PROJ_DIR$\HT1621.cpp</file>
+            <file>$PROJ_DIR$\DisDataCalculate.H</file>
+            <file>$PROJ_DIR$\MessageCenter.H</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Pwm.h</file>
+            <file>$PROJ_DIR$\RunAuto.h</file>
+            <file>$PROJ_DIR$\Hart.h</file>
+            <file>$PROJ_DIR$\FittingData.H</file>
+            <file>$PROJ_DIR$\RunMen.H</file>
+            <file>$PROJ_DIR$\Tick.cpp</file>
+            <file>$PROJ_DIR$\Device.H</file>
+            <file>$PROJ_DIR$\Tick.H</file>
+            <file>$PROJ_DIR$\Limited.H</file>
+            <file>$PROJ_DIR$\delay.cpp</file>
+            <file>$PROJ_DIR$\KEYBOARD.H</file>
+            <file>$PROJ_DIR$\RunConfig.c</file>
+            <file>$PROJ_DIR$\RunAuto.c</file>
+            <file>$PROJ_DIR$\MessageCenter.cpp</file>
+            <file>$PROJ_DIR$\Uart.c</file>
+            <file>$PROJ_DIR$\Uart.h</file>
+            <file>$PROJ_DIR$\Dis_lib.h</file>
+            <file>$PROJ_DIR$\DisDataCalculate.c</file>
+            <file>$PROJ_DIR$\Release\Obj\CurveFitting.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\Alarm.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\HT1621.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430ff.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\Alarm.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\hart.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+            <file>$PROJ_DIR$\Release\Obj\Tick.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\HIR.pbd</file>
+            <file>$PROJ_DIR$\Release\Obj\Uart.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\CurveFitting.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\Flash_RW.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\RunMen.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430ff.h</file>
+            <file>$PROJ_DIR$\Release\Obj\RunAuto.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\AD421.pbi</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430f169.xcl</file>
+            <file>$PROJ_DIR$\Release\Obj\KEYBOARD.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\ad.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\Flash_RW.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\HT1621.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\RunConfig.r43</file>
+            <file>$PROJ_DIR$\Release\Exe\HIR.ulp</file>
+            <file>$PROJ_DIR$\Release\Obj\main.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\AD421.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\hart.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\ad.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\Tick.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\RunConfig.pbi</file>
+            <file>$TOOLKIT_DIR$\config\linker\multiplier.xcl</file>
+            <file>$PROJ_DIR$\Release\Obj\MessageCenter.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\Pwm.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+            <file>$PROJ_DIR$\Release\Obj\delay.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\Pwm.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\delay.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\Uart.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\DisDataCalculate.pbi</file>
+            <file>$PROJ_DIR$\Release\Exe\HIR.txt</file>
+            <file>$PROJ_DIR$\Release\Obj\RunAuto.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\MessageCenter.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\KEYBOARD.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Release\Exe\HIR.d43</file>
+            <file>$PROJ_DIR$\Release\Obj\RunMen.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\DisDataCalculate.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$PROJ_DIR$\math.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430x16x.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\AD421.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91 18 92 88 15 22 36 31 93 7 4 3 96 89 87 19 11 25 10 1 28 21 23 8 27 90 52 98 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ad.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 65</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7 91 88 4 31 3 96 93 18 22 15 36 92 89 87 19 11 25 10 1 28 21 23 8 27 90 52 98 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Alarm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1 91 19 25 21 96 8 27 90 98 93 11 10 28 23 88 31 18 7 22 15 4 36 3 92 95 89 97 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\CurveFitting.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91 15 88 18 92 22 36 31 93 7 4 3 96 89 87 27 19 11 25 10 1 28 21 23 8 90 52 98 24 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Flash_RW.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 58</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91 15 88 18 92 22 36 31 93 7 4 3 96 89 87 19 11 25 10 1 28 21 23 8 27 90 52 98 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\hart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28 21 31 91 11 88 8 93 10 23 98 19 25 1 96 27 18 7 22 15 4 36 3 92 90 89 97 95 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunMen.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 85</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91 36 88 22 18 15 92 31 93 7 4 3 96 89 87 19 11 25 10 1 28 21 23 8 27 90 52 98 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\KEYBOARD.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28 91 96 88 11 93 10 23 31 19 25 1 21 89 87 18 7 22 15 4 36 3 92 8 27 90 52 98 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Pwm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91 19 88 1 25 21 31 93 11 10 28 23 96 89 87 18 7 22 15 4 36 3 92 8 27 90 52 98 95 94 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\HT1621.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 98 4 93 96 7 31 3 95 91 37 18 22 15 36 92 21 8 27 88 19 11 25 10 1 28 23 90 89 97 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 27 93 96 88 18 19 31 8 15 7 11 22 21 25 10 1 4 28 36 3 23 92 91 90 98 94 52 87 89 97 95 83 72 73 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91 3 31 8 27 90 98 7 4 89 97 73 18 22 15 36 92 96 93 83 19 11 25 10 1 28 21 23 88 45 95 94 52 87 72</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Tick.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3 93 95 91 31 7 4 18 22 15 36 92 96 21 8 19 11 25 10 1 28 23 88 27 90 98 89 97 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\delay.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88 96 93</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunConfig.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93 21 23 91 10 11 28 88 31 8 98 27 19 25 1 96 18 7 22 15 4 36 3 92 90 89 97 95 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RunAuto.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 53</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21 1 91 19 31 25 96 88 8 98 93 11 10 28 23 18 7 22 15 4 36 3 92 27 90 89 97 95 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\MessageCenter.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 10 96 93 23 29 11 28 31 21 8 98 91 27 88 19 25 1 90 89 97 18 7 22 15 4 36 3 92 95 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21 8 27 90 91 25 96 19 1 93 11 10 28 23 88 31 98 18 7 22 15 4 36 3 92 95 89 97 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\DisDataCalculate.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15 36 91 22 93 21 18 92 96 8 98 7 31 4 3 95 19 11 25 10 1 28 23 88 27 90 89 97 94 52 87</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\HIR.txt</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 55 68 65 63 43 39 76 86 58 44 59 56 62 81 75 53 60 85 46 48 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\HIR.d43</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 55 68 65 63 43 39 76 86 58 44 59 56 62 81 75 53 60 85 46 48 42</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>
